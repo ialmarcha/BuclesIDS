@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//menu utilizando bucles y switch-case
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
